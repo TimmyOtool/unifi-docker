@@ -4,7 +4,7 @@ LABEL maintainer="Michael Melin <melinm@gmail.com>"
 
 ARG DEBIAN_FRONTEND=noninteractive
 
-ARG PKGURL=https://dl.ui.com/unifi/5.14.23/unifi_sysvinit_all.deb
+ARG PKGURL=https://fw-download.ubnt.com/data/unifi-controller/04ca-debian-6.0.20-4600653fd95f45a7a4a651be5b67c217.deb
 
 ENV BASEDIR=/usr/lib/unifi \
     DATADIR=/unifi/data \
