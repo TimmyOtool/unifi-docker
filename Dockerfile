@@ -4,7 +4,7 @@ LABEL maintainer="Michael Melin <melinm@gmail.com>"
 
 ARG DEBIAN_FRONTEND=noninteractive
 
-ARG PKGURL=https://fw-download.ubnt.com/data/unifi-controller/08be-debian-6.0.45-6489e9e36e3d45e6a3792e6472ec4cef.deb
+ARG PKGURL=https://fw-download.ubnt.com/data/unifi-controller/db78-debian-6.1.71-c2c55afec5904b5fbf0495d0991bbd6c.deb
 
 ENV BASEDIR=/usr/lib/unifi \
     DATADIR=/unifi/data \
